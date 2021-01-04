@@ -57,3 +57,8 @@ This file is used to make notes, while I follow along the tutorial to replicate 
   - We suggest you start by typing
   - **cd app_folder**
   - **npm start**
+- Edited few files shown exactly as in tuto.
+- Added styled components.
+- All components are added with there exact name just use npm instead of yarn.( as I am using npm)
+- To search a running service on a port use lsof -i :port_number
+- 
